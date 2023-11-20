@@ -1,4 +1,5 @@
 ## files to be ignored by GitHub to avoid posting undesirable items to internet
+.gitignore
 
 # config file(s)
 *.yaml
