@@ -1,0 +1,15 @@
+## files to be ignored by GitHub to avoid posting undesirable items to internet
+
+# config file(s)
+*.yaml
+*.yml
+config.yaml
+
+# Project direction files
+Python_Inventory.pdf
+mapping.txt
+projectToDo.txt
+/scratch
+
+# pycharm
+__pycache__
